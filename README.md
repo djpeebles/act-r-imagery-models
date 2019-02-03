@@ -13,3 +13,4 @@ Running the models
 1. In your lisp, load ACT-R the 'load-act-r.lisp' file.
 2. Load either the 'rotation-model.lisp' or 'scanning-model.lisp'
 3. Run the model using the function (runsim 50) which will run it for 50 simulated participants. 
+4. The output you get will hopefully be like the two screenshots, showing the mean RTs for the model for each of the conditions in the experiment together with the correlation and mean deviation between the model and human data. 
